@@ -8,7 +8,6 @@ MAX_BET = 100
 MIN_BET = 1
 
 
-
 symbol_count = {
     "A": 2,
     "B": 4,
